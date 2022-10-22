@@ -1,6 +1,7 @@
 # Game of Life on Penrose Tiling: Robinson Triangle
 
 *author*: Seung Hyeon Mandy Hong
+
 This is my year-long senior research working with Dr. May Mei in the department of Mathematics at Denison University. 
 
 # Code
