@@ -1,7 +1,7 @@
 # Game of Life on Penrose Tiling: Robinson Triangle
 
 *author*: Seung Hyeon Mandy Hong
-
+This is my year-long senior research working with Dr. May Mei in the department of Mathematics at Denison University. 
 
 # Code
 I use Julia to create a code that generates aperiodic tiling, simulates Game of Life on Penrose tiling, and gets graphics and animations.
