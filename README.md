@@ -30,4 +30,4 @@ I used **Julia** to create algorithms that generate aperiodic tiling, simulate G
 3. Classified all four-cell still life into 31 categories using different labels.
 
 ## Research Presentation at Joint Mathematics Meetings 2023
-1. Presented the research result at Pi Mu Epsilon contributed session on research by undergraduate session in Joint Mathematics Meeting 2023 at Boston.
+Presented the research result at Pi Mu Epsilon contributed session on research by undergraduate session in Joint Mathematics Meeting 2023 at Boston.
