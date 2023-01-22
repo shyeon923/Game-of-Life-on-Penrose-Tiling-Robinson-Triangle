@@ -6,7 +6,7 @@
 
 *Denison University, Department of Mathematics, year-long research project*
 
-This is my year-long senior research working with Dr. May Mei in the department of Mathematics at Denison University. 
+This is my year-long senior research working with Dr. May Mei in the department of Mathematics at Denison University. All codes in this repository is publicly available but please cite when using them.
 
 # Description
 John Horton Conway’s Game of Life gained much attention in different areas because of the concept that it generates complexity from simplicity. If we are given three simple rules: survival, death, and birth, and initial configuration, we can play Game of Life. Compared to the simple setting of this game, what we get is more complex. Generally, Game of Life is played on the regular square tiling, a periodic tiling. However, we implement Game of Life on an aperiodic tiling, specifically on the Robinson Triangle tiling, a variation of the Penrose tiling. We use an emerging programming language called Julia. We show patterns, still life and oscillator, discovered when playing Game of Life on Robinson Triangle tiling and classified four-cell still life in Robinson triangle tiling.
