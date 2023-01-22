@@ -14,20 +14,20 @@ John Horton Conway’s Game of Life gained much attention in different areas bec
 # Software
 I used **Julia** to create algorithms that generate aperiodic tiling, simulate Game of Life on Penrose tiling, get graphics and animations, and classify all valid four-cell configurations that satisfy still life conditions.
 
-## Research Prepartion (Jan. 2022 - May. 2022)
+# Research Prepartion (Jan. 2022 - May. 2022)
 1. Wrote and developed research proposal.
 2. Applied and received Anderson summer research scholarship.
 3. Took *MATH 471 The Mathematics of Tiling* to learn about the research topic.
 
-## Anderson Summer Research (May. 2022 - Jul. 2022)
+# Anderson Summer Research (May. 2022 - Jul. 2022)
 1. *Game of Life on Robinson Triangle Tiling (section 4).ipynb*: Created an algorithm to play Game of Life on the Robinson triangle tiling using the progamming language *Julia*.
 2. *Summer research paper.pdf*: Wrote a paper with description of the Game of Life algorithm.
 3. *summer research poster_final.pdf*: Made a research poster and presented the work at the Denison summer research symposium.
 
-## Senior Research (Aug. 2022 - Jan. 2023)
+# Senior Research (Aug. 2022 - Jan. 2023)
 1. *Finding Four-Cell Still Life (scenario 1, section 7.1).ipynb*: Created the first algorithm to find all valid four-cell still life in distinct neighborhoods in the Robinson triangle tiling. This algorithm identifies four-cell still life where the center cell of the neighborhood is alive with three alive neighbors.
 2. *Finding Four-Cell Still Life (scenario 2, section 7.2).ipynb*:  Created the second algorithm to find all valid four-cell still life in distinct neighborhoods in the Robinson triangle tiling. This algorithm identifies four-cell still life where the center cell of the neighborhood is dead with four alive neighbors.
 3. Classified all four-cell still life into 31 categories using different labels.
 
-## Research Presentation at Joint Mathematics Meetings 2023
+# Research Presentation at Joint Mathematics Meetings 2023
 1. *PME talk mandy hong.pdf*: Presented the research result at Pi Mu Epsilon contributed session on research by undergraduate session in Joint Mathematics Meeting 2023 at Boston.
